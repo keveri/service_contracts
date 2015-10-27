@@ -22,10 +22,10 @@ Knowledge about solutions to problems, methods, or designs.
 ## Terms
 
 1. **Rate**:
-Services shall be billed to the Client at the rate of $__ USD per hour.
+Services shall be billed to the Client at the rate of €__ EUR per hour.
 
 2. **Payment**:
-The Client shall send payment to the Developer within 30 days of receiving
+The Client shall send payment to the Developer within 14 days of receiving
 an invoice.
 	
 	1. **Late Payment**:
